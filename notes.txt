@@ -58,3 +58,17 @@ ka datatype kya hai aur yeh format mai stored hai iski design hi schema design k
  
 5. config 
 6. models
+
+
+http methods
+1.get=any information that is served by the server to the frontend.
+2.post=any information taken from frontend by the server.
+3.put=any information updated by the server to the frontend.
+4.delete=any information deleted by the server to the frontend.
+5.patch=specific in formation updated by the server to the frontend.
+
+create=>post
+update=>put patch
+delete=>delete
+read=>get
+
